@@ -1,1 +1,2 @@
-Teste estou escrevendo dentro de um arquivo pelo git e vou dar upload nele no github
+Teste, estou escrevendo dentro de um arquivo pelo git e vou dar upload nele no github
+Agora vou escrever na nuvem e vou dar um pull
